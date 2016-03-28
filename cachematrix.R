@@ -1,4 +1,4 @@
-## Matrix inversion is applicable to square matrices with a non zero value for determinant,
+## Matrix inversion is applicable to square matrices with a non zero value for determinant.
 ## There is no Matrix division per say but multiplying.
 ## Let's say divinding a matrix A by matrix B is achieved by 
 ## 	multiplying the matrix A with the inverse of matrix B
